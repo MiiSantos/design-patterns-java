@@ -1,6 +1,6 @@
 # padroes-projeto-java
 
-## 🎲 Padrões de Projeto Java na Prática - Cod3r
+## 🎲 Padrões de Projeto Java na Prática - Cod3r Cursos
 
 Este é um repósitorio de estudo de Design Patterns.
 
@@ -10,3 +10,6 @@ Este é um repósitorio de estudo de Design Patterns.
 - Singleton
 - Builder
 - Prototype
+
+### **Estruturais** 🧱
+- Adapter
