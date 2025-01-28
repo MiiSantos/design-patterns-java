@@ -9,3 +9,4 @@ Este é um repósitorio de estudo de Design Patterns.
 - Abstract Factory
 - Singleton
 - Builder
+- Prototype
