@@ -13,3 +13,9 @@ Este é um repósitorio de estudo de Design Patterns.
 
 ### **Estruturais** 🧱
 - Adapter
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
